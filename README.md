@@ -1,6 +1,7 @@
 # capacitor-plugin-remote-audio
 
-Whatever
+A very basic and probably in much need of attention Capacitor plugin for playing remote audio files in Android.
+iOS not implemented as wasn't required at time of writing.
 
 ## Install
 
